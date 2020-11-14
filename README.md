@@ -1,6 +1,16 @@
 # CortexXDRConnTest
 
-CortexXDRConnTest is a simple cli tool test your endpoint's connection to Cortex XDR communication servers and storage buckets. 
+CortexXDRConnTest is a simple cli tool test your endpoint's connection to Cortex XDR communication servers and storage buckets.
+
+### Get CortexXDRConnTest
+
+| Supported Platform | Download                                                | Version |
+| :----------------- | ------------------------------------------------------- | ------- |
+| MacOS              | [zip](./binaries/v03/macos/CortexXDRConnTest.zip)       | v0.3    |
+| Linux amd64        | [zip](./binaries/v03/linux_amd64/CortexXDRConnTest.zip) | v0.3    |
+| Windows            | [zip](./binaries/v03/windows/CortexXDRConnTest.zip)     | v0.3    |
+
+
 
 # Usage Documentation
 
